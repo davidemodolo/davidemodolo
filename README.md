@@ -2,7 +2,7 @@ Passionate about exploring all aspects of <strong>Artificial Intelligence</stron
 
 Eager to apply my knowledge in real-world scenarios and continue growing in this exciting field!
 
-Take a look at my interactive resume: [davidemodolo.dev](davidemodolo.dev) or reach me on [LinkedIn](https://www.linkedin.com/in/davide-modolo-6ba427194/)
+Take a look at my interactive resume: [davidemodolo.dev](https://www.davidemodolo.dev) or reach me on [LinkedIn](https://www.linkedin.com/in/davide-modolo/)
 
 <!--
 Contributions
